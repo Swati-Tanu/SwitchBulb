@@ -1,6 +1,6 @@
 # Switch Bulb Project
 
-### A short and simple DOM application to understand the basis of correlation between HTML, CSS and Javascript. 
+### A short and simple DOM application to understand the basics of correlation between HTML, CSS and Javascript. 
 
 A simple DOM application using onclick functionality. The application allows you to turn a bulb on or off by clicking a button. It is made using HTML, CSS and Vanilla Javascript. The main focus is on understanding how these three work together. An ample amount of comments are used throughout the code. 
 
