@@ -11,7 +11,7 @@ A simple DOM application using onclick functionality. The application allows you
 
 * Clone or download the repository to your local machine.
 * Open the index.html file in your preferred browser to view the website.
-*Click the "Turn on" button to turn the bulb on or off.
+* Click the "Turn on" button to turn the bulb on or off.
 * Explore the code by opening the file in a text editor and following the comments.
 
 
